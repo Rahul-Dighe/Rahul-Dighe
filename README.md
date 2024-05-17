@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahul-Dighe
+- 👋 Hi, I’m Rahul-Dighe
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Advanced tools.
 <!---
